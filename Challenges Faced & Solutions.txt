@@ -1,0 +1,13 @@
+Challenges Faced & Solutions
+
+Challenge: Making all pages responsive on different screen sizes.
+
+ Solution: Used Bootstrap grid system (container, row, col-md-*) and utility classes (p-3, m-4, text-center).
+
+Challenge: Avoiding copy-paste of full example templates.
+
+ Solution: Extracted only useful components and remixed them into new layouts.
+
+Challenge: Learning GitHub Pages/Netlify deployment.
+
+ Solution: Followed official guides and tested live links until successful.
